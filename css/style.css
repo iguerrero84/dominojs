@@ -1,0 +1,85 @@
+div#wrapper{
+  position: absolute;
+  left: 200px;
+  width:900px;
+  height:670px;
+  background-image: url("../images/table.png");
+}
+div.ownCard{
+  position: absolute;
+  top:590px;
+  height: 67px;
+  width: 41px;
+  background-image: url("../images/6-6.png");
+  background-position: left center;
+  background-size:contain;
+  background-repeat: no-repeat;
+}
+div.otherCardUp{
+  position: absolute;
+  top:16px;
+  height: 42px;
+  width: 41px;
+  outline: 1px solid black;
+  background-color: white;
+}
+div.otherCardLeft{
+  position: absolute;
+  left:15px;
+  height: 42px;
+  width: 38px;
+  outline: 1px solid black;
+  background-color: white;
+}
+div.otherCardRight{
+  position: absolute;
+  left:845px;
+  height: 42px;
+  width: 38px;
+  outline: 1px solid black;
+  background-color: white;
+}
+
+div#firstHorizontal{
+  left:300px;
+}
+div#secondHorizontal{
+  left:341px;
+}
+div#thirdHorizontal{
+  left:383px;
+}
+div#fourthHorizontal{
+  left:424px;
+}
+div#fifthHorizontal{
+  left:465px;
+}
+div#sixthHorizontal{
+  left:506px;
+}
+div#seventhHorizontal{
+  left:547px;
+}
+
+div#firstVertical{
+  top:160px;
+}
+div#secondVertical{
+  top:204px;
+}
+div#thirdVertical{
+  top:246px;
+}
+div#fourthVertical{
+  top:288px;
+}
+div#fifthVertical{
+  top:330px;
+}
+div#sixthVertical{
+  top:372px;
+}
+div#seventhVertical{
+  top:414px;
+}
